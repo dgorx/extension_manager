@@ -1,27 +1,24 @@
-## Extensity
+# Extension Manager
 
-### Quickly enable/disable Google Chrome extensions
+Extensão para Google Chrome que permite gerenciar, ativar e desativar rapidamente suas extensões, mantendo sua barra de ferramentas limpa e o navegador ágil. Remasterizada com foco em usabilidade, acessibilidade, simplicidade e suporte total ao português Brasileiro.
 
-Tired of having too many extensions in your toolbar? Try Extensity, the ultimate tool
-for lightning fast enabling and disabling all your extensions for Google Chrome.
-Just enable the extension when you want to use it, and disable when you want to
-get rid of it for a little while. You can also launch Chrome Apps right from the list.
+- Interface em português, fácil para todos os públicos
+- Navegação intuitiva e interação simplificada
+- Ative e desative extensões de forma rápida, individualmente ou em grupo
+- Perfis para alternância entre conjuntos de extensões
+- Organização eficiente e sincronização das extensões
+- Código aberto, pensado para a comunidade
 
-* Keep your browser lean and fast - disable extensions that you won't use right away.
-* Keep your toolbar clean.
-* Turn all extensions off (and back on) with a single click.
-* Quick switch between several extensions groups using the Profiles feature.
-* Allow your most important extensions to be always enabled.
-* Keep computers in sync with Chrome Cloud Storage support.
-* Ideal companion for extensions collectors.
+## Créditos
 
-Extensity is open source software. Full source code at GitHub https://github.com/sergiokas/Extensity
+Esta extensão é baseada no projeto original [Extensity](https://github.com/sergiokas/Extensity), criado por [Sergio Kas](https://github.com/sergiokas). Todo o mérito das ideias e estrutura base vai para o autor. Esta versão foi criada para aprimorar a usabilidade, modernizar e oferecer suporte em português.
 
-Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg).
+---
 
-Website: [https://sergiokas.github.io/Extensity/](https://sergiokas.github.io/Extensity/)
+Abaixo, histórico de releases originais incluídos para registro:
 
-Follow us in Twitter: [@ExtensityChrome](https://twitter.com/ExtensityChrome)
+<details>
+<summary>Histórico de versões (Extensity)</summary>
 
 ### What's new:
 
@@ -134,3 +131,5 @@ v0.1.2 (Jun 2011)
 
 v0.1.1 (May 2011)
 - Fixed scrollbar for really long extension lists
+
+</details>
